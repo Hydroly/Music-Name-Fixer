@@ -1,5 +1,5 @@
 # Music-Name-Fixer
-music filename fixer
+Music filename fixer
 
 This app will organize your music file name
 
@@ -15,7 +15,7 @@ pip install music-tag
 ```
 
 ```
-music_name_fixer.py
+python3 music_name_fixer.py
 ```
 
 The usage is very simple, just need to put all your songs (don't care about extension) to a folder and change the `PATH` variable at the source code.
